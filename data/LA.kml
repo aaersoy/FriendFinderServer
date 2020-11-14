@@ -1,0 +1,6771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"> <Document>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3221 , 34.26516 , 0
+-118.32174 , 34.264576 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32174 , 34.264576 , 0
+-118.3221 , 34.26516 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32174 , 34.264576 , 0
+-118.32087 , 34.26364 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32087 , 34.26364 , 0
+-118.32174 , 34.264576 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32087 , 34.26364 , 0
+-118.30525 , 34.24569 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30525 , 34.24569 , 0
+-118.32087 , 34.26364 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30525 , 34.24569 , 0
+-118.29213 , 34.242126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29213 , 34.242126 , 0
+-118.30525 , 34.24569 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29213 , 34.242126 , 0
+-118.26101 , 34.233765 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26101 , 34.233765 , 0
+-118.29213 , 34.242126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26101 , 34.233765 , 0
+-118.25861 , 34.233124 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25861 , 34.233124 , 0
+-118.26101 , 34.233765 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40292 , 34.233017 , 0
+-118.38419 , 34.22755 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38419 , 34.22755 , 0
+-118.40292 , 34.233017 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40292 , 34.233017 , 0
+-118.40086 , 34.215633 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40086 , 34.215633 , 0
+-118.40292 , 34.233017 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25861 , 34.233124 , 0
+-118.22662 , 34.21994 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22662 , 34.21994 , 0
+-118.25861 , 34.233124 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22662 , 34.21994 , 0
+-118.21557 , 34.21265 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21557 , 34.21265 , 0
+-118.22662 , 34.21994 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21557 , 34.21265 , 0
+-118.20962 , 34.208668 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20962 , 34.208668 , 0
+-118.21557 , 34.21265 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20962 , 34.208668 , 0
+-118.20634 , 34.20885 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20634 , 34.20885 , 0
+-118.20962 , 34.208668 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20634 , 34.20885 , 0
+-118.2086 , 34.20731 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2086 , 34.20731 , 0
+-118.20634 , 34.20885 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20634 , 34.20885 , 0
+-118.19501 , 34.20949 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19501 , 34.20949 , 0
+-118.20634 , 34.20885 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2086 , 34.20731 , 0
+-118.21308 , 34.205044 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21308 , 34.205044 , 0
+-118.2086 , 34.20731 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21308 , 34.205044 , 0
+-118.21421 , 34.203117 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21421 , 34.203117 , 0
+-118.21308 , 34.205044 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21421 , 34.203117 , 0
+-118.21739 , 34.197674 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21739 , 34.197674 , 0
+-118.21421 , 34.203117 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38419 , 34.22755 , 0
+-118.35762 , 34.219536 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35762 , 34.219536 , 0
+-118.38419 , 34.22755 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35762 , 34.219536 , 0
+-118.34284 , 34.216255 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34284 , 34.216255 , 0
+-118.35762 , 34.219536 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34284 , 34.216255 , 0
+-118.33413 , 34.20524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33413 , 34.20524 , 0
+-118.34284 , 34.216255 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33413 , 34.20524 , 0
+-118.33264 , 34.20235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33264 , 34.20235 , 0
+-118.33413 , 34.20524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33264 , 34.20235 , 0
+-118.33016 , 34.19752 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33016 , 34.19752 , 0
+-118.33264 , 34.20235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33016 , 34.19752 , 0
+-118.32935 , 34.195957 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32935 , 34.195957 , 0
+-118.33016 , 34.19752 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46461 , 34.176083 , 0
+-118.46422 , 34.173836 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46422 , 34.173836 , 0
+-118.46461 , 34.176083 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46627 , 34.17456 , 0
+-118.46529 , 34.17442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46529 , 34.17442 , 0
+-118.46627 , 34.17456 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46422 , 34.173836 , 0
+-118.46529 , 34.17442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46529 , 34.17442 , 0
+-118.46422 , 34.173836 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46422 , 34.173836 , 0
+-118.44891 , 34.165462 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44891 , 34.165462 , 0
+-118.46422 , 34.173836 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.46422 , 34.173836 , 0
+-118.47105 , 34.152466 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47105 , 34.152466 , 0
+-118.46422 , 34.173836 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40086 , 34.215633 , 0
+-118.39639 , 34.19992 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39639 , 34.19992 , 0
+-118.40086 , 34.215633 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39639 , 34.19992 , 0
+-118.38707 , 34.180668 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38707 , 34.180668 , 0
+-118.39639 , 34.19992 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38707 , 34.180668 , 0
+-118.37905 , 34.166195 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37905 , 34.166195 , 0
+-118.38707 , 34.180668 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37905 , 34.166195 , 0
+-118.37792 , 34.16503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37792 , 34.16503 , 0
+-118.37905 , 34.166195 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37792 , 34.16503 , 0
+-118.40498 , 34.16527 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40498 , 34.16527 , 0
+-118.37792 , 34.16503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37792 , 34.16503 , 0
+-118.37265 , 34.164986 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37265 , 34.164986 , 0
+-118.37792 , 34.16503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37792 , 34.16503 , 0
+-118.36927 , 34.156128 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36927 , 34.156128 , 0
+-118.37792 , 34.16503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44891 , 34.165462 , 0
+-118.40498 , 34.16527 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40498 , 34.16527 , 0
+-118.44891 , 34.165462 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32935 , 34.195957 , 0
+-118.3102 , 34.17902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3102 , 34.17902 , 0
+-118.32935 , 34.195957 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3102 , 34.17902 , 0
+-118.29707 , 34.167656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29707 , 34.167656 , 0
+-118.3102 , 34.17902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29707 , 34.167656 , 0
+-118.2933 , 34.163387 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2933 , 34.163387 , 0
+-118.29707 , 34.167656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2933 , 34.163387 , 0
+-118.31262 , 34.162666 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31262 , 34.162666 , 0
+-118.2933 , 34.163387 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2933 , 34.163387 , 0
+-118.29249 , 34.163418 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29249 , 34.163418 , 0
+-118.2933 , 34.163387 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2933 , 34.163387 , 0
+-118.28774 , 34.15721 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 34.15721 , 0
+-118.2933 , 34.163387 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37265 , 34.164986 , 0
+-118.34466 , 34.162514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34466 , 34.162514 , 0
+-118.37265 , 34.164986 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34466 , 34.162514 , 0
+-118.31262 , 34.162666 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31262 , 34.162666 , 0
+-118.34466 , 34.162514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21739 , 34.197674 , 0
+-118.21921 , 34.18976 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21921 , 34.18976 , 0
+-118.21739 , 34.197674 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21921 , 34.18976 , 0
+-118.22286 , 34.173782 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22286 , 34.173782 , 0
+-118.21921 , 34.18976 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22286 , 34.173782 , 0
+-118.22252 , 34.16537 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22252 , 34.16537 , 0
+-118.22286 , 34.173782 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22252 , 34.16537 , 0
+-118.222 , 34.161243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.222 , 34.161243 , 0
+-118.22252 , 34.16537 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.222 , 34.161243 , 0
+-118.2219 , 34.160484 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2219 , 34.160484 , 0
+-118.222 , 34.161243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2219 , 34.160484 , 0
+-118.22138 , 34.15818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22138 , 34.15818 , 0
+-118.2219 , 34.160484 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19501 , 34.20949 , 0
+-118.18148 , 34.20226 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18148 , 34.20226 , 0
+-118.19501 , 34.20949 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18148 , 34.20226 , 0
+-118.16621 , 34.192543 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16621 , 34.192543 , 0
+-118.18148 , 34.20226 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16621 , 34.192543 , 0
+-118.15423 , 34.182056 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15423 , 34.182056 , 0
+-118.16621 , 34.192543 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15423 , 34.182056 , 0
+-118.14852 , 34.169346 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14852 , 34.169346 , 0
+-118.15423 , 34.182056 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14852 , 34.169346 , 0
+-118.14542 , 34.15979 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14542 , 34.15979 , 0
+-118.14852 , 34.169346 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14542 , 34.15979 , 0
+-118.14438 , 34.158237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14438 , 34.158237 , 0
+-118.14542 , 34.15979 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14438 , 34.158237 , 0
+-118.14955 , 34.159454 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14955 , 34.159454 , 0
+-118.14438 , 34.158237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14438 , 34.158237 , 0
+-118.13897 , 34.156963 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13897 , 34.156963 , 0
+-118.14438 , 34.158237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14438 , 34.158237 , 0
+-118.14162 , 34.154144 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14162 , 34.154144 , 0
+-118.14438 , 34.158237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22138 , 34.15818 , 0
+-118.22272 , 34.158775 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22272 , 34.158775 , 0
+-118.22138 , 34.15818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22138 , 34.15818 , 0
+-118.21204 , 34.154 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21204 , 34.154 , 0
+-118.22138 , 34.15818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22138 , 34.15818 , 0
+-118.21967 , 34.150826 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21967 , 34.150826 , 0
+-118.22138 , 34.15818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29249 , 34.163418 , 0
+-118.26707 , 34.163383 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26707 , 34.163383 , 0
+-118.29249 , 34.163418 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26707 , 34.163383 , 0
+-118.23897 , 34.16502 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23897 , 34.16502 , 0
+-118.26707 , 34.163383 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23897 , 34.16502 , 0
+-118.22272 , 34.158775 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22272 , 34.158775 , 0
+-118.23897 , 34.16502 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 34.15721 , 0
+-118.28744 , 34.15636 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28744 , 34.15636 , 0
+-118.28774 , 34.15721 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28744 , 34.15636 , 0
+-118.28186 , 34.140762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28186 , 34.140762 , 0
+-118.28744 , 34.15636 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21204 , 34.154 , 0
+-118.20106 , 34.15565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20106 , 34.15565 , 0
+-118.21204 , 34.154 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20106 , 34.15565 , 0
+-118.18292 , 34.1506 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18292 , 34.1506 , 0
+-118.20106 , 34.15565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18292 , 34.1506 , 0
+-118.1664 , 34.151928 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1664 , 34.151928 , 0
+-118.18292 , 34.1506 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1664 , 34.151928 , 0
+-118.14955 , 34.159454 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14955 , 34.159454 , 0
+-118.1664 , 34.151928 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13897 , 34.156963 , 0
+-118.11894 , 34.153095 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11894 , 34.153095 , 0
+-118.13897 , 34.156963 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11894 , 34.153095 , 0
+-118.10233 , 34.151894 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10233 , 34.151894 , 0
+-118.11894 , 34.153095 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10233 , 34.151894 , 0
+-118.09143 , 34.156055 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09143 , 34.156055 , 0
+-118.10233 , 34.151894 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09143 , 34.156055 , 0
+-118.07947 , 34.153595 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07947 , 34.153595 , 0
+-118.09143 , 34.156055 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07947 , 34.153595 , 0
+-118.06574 , 34.147984 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06574 , 34.147984 , 0
+-118.07947 , 34.153595 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06574 , 34.147984 , 0
+-118.06462 , 34.147526 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06462 , 34.147526 , 0
+-118.06574 , 34.147984 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06574 , 34.147984 , 0
+-118.06512 , 34.12985 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06512 , 34.12985 , 0
+-118.06574 , 34.147984 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47105 , 34.152466 , 0
+-118.47194 , 34.140278 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47194 , 34.140278 , 0
+-118.47105 , 34.152466 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47194 , 34.140278 , 0
+-118.47658 , 34.130722 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47658 , 34.130722 , 0
+-118.47194 , 34.140278 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06462 , 34.147526 , 0
+-118.05434 , 34.145477 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05434 , 34.145477 , 0
+-118.06462 , 34.147526 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05434 , 34.145477 , 0
+-118.03797 , 34.15137 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.03797 , 34.15137 , 0
+-118.05434 , 34.145477 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.03797 , 34.15137 , 0
+-118.02808 , 34.152756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02808 , 34.152756 , 0
+-118.03797 , 34.15137 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02808 , 34.152756 , 0
+-118.00908 , 34.146317 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00908 , 34.146317 , 0
+-118.02808 , 34.152756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00908 , 34.146317 , 0
+-118.00025 , 34.138493 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00025 , 34.138493 , 0
+-118.00908 , 34.146317 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00025 , 34.138493 , 0
+-117.99352 , 34.135212 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99352 , 34.135212 , 0
+-118.00025 , 34.138493 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47658 , 34.130722 , 0
+-118.47968 , 34.124344 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47968 , 34.124344 , 0
+-118.47658 , 34.130722 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28186 , 34.140762 , 0
+-118.2756 , 34.123924 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2756 , 34.123924 , 0
+-118.28186 , 34.140762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2756 , 34.123924 , 0
+-118.27547 , 34.12284 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27547 , 34.12284 , 0
+-118.2756 , 34.123924 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27547 , 34.12284 , 0
+-118.25941 , 34.113102 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25941 , 34.113102 , 0
+-118.27547 , 34.12284 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14162 , 34.154144 , 0
+-118.14093 , 34.142235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14093 , 34.142235 , 0
+-118.14162 , 34.154144 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14093 , 34.142235 , 0
+-118.13882 , 34.121864 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13882 , 34.121864 , 0
+-118.14093 , 34.142235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13882 , 34.121864 , 0
+-118.16467 , 34.11615 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16467 , 34.11615 , 0
+-118.13882 , 34.121864 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16467 , 34.11615 , 0
+-118.17854 , 34.11308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17854 , 34.11308 , 0
+-118.16467 , 34.11615 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24655 , 34.103714 , 0
+-118.24248 , 34.11055 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24248 , 34.11055 , 0
+-118.24655 , 34.103714 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24655 , 34.103714 , 0
+-118.24777 , 34.104454 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24777 , 34.104454 , 0
+-118.24655 , 34.103714 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24655 , 34.103714 , 0
+-118.23535 , 34.096966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23535 , 34.096966 , 0
+-118.24655 , 34.103714 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24655 , 34.103714 , 0
+-118.24872 , 34.100067 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24872 , 34.100067 , 0
+-118.24655 , 34.103714 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24248 , 34.11055 , 0
+-118.2334 , 34.118813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2334 , 34.118813 , 0
+-118.24248 , 34.11055 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2334 , 34.118813 , 0
+-118.22605 , 34.121754 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22605 , 34.121754 , 0
+-118.2334 , 34.118813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22605 , 34.121754 , 0
+-118.22235 , 34.133778 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22235 , 34.133778 , 0
+-118.22605 , 34.121754 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.22235 , 34.133778 , 0
+-118.21992 , 34.142788 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21992 , 34.142788 , 0
+-118.22235 , 34.133778 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21992 , 34.142788 , 0
+-118.21967 , 34.150826 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21967 , 34.150826 , 0
+-118.21992 , 34.142788 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25941 , 34.113102 , 0
+-118.24777 , 34.104454 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24777 , 34.104454 , 0
+-118.25941 , 34.113102 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17854 , 34.11308 , 0
+-118.19998 , 34.098152 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19998 , 34.098152 , 0
+-118.17854 , 34.11308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19998 , 34.098152 , 0
+-118.21564 , 34.086224 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21564 , 34.086224 , 0
+-118.19998 , 34.098152 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47968 , 34.124344 , 0
+-118.47997 , 34.10874 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47997 , 34.10874 , 0
+-118.47968 , 34.124344 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47997 , 34.10874 , 0
+-118.47865 , 34.098614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47865 , 34.098614 , 0
+-118.47997 , 34.10874 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47865 , 34.098614 , 0
+-118.47779 , 34.094315 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47779 , 34.094315 , 0
+-118.47865 , 34.098614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47779 , 34.094315 , 0
+-118.47692 , 34.089966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47692 , 34.089966 , 0
+-118.47779 , 34.094315 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36927 , 34.156128 , 0
+-118.35229 , 34.137993 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35229 , 34.137993 , 0
+-118.36927 , 34.156128 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35229 , 34.137993 , 0
+-118.34132 , 34.133003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34132 , 34.133003 , 0
+-118.35229 , 34.137993 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34132 , 34.133003 , 0
+-118.33331 , 34.11807 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33331 , 34.11807 , 0
+-118.34132 , 34.133003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33331 , 34.11807 , 0
+-118.31992 , 34.107178 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31992 , 34.107178 , 0
+-118.33331 , 34.11807 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31992 , 34.107178 , 0
+-118.31087 , 34.101448 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31087 , 34.101448 , 0
+-118.31992 , 34.107178 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31087 , 34.101448 , 0
+-118.30424 , 34.094048 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30424 , 34.094048 , 0
+-118.31087 , 34.101448 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30424 , 34.094048 , 0
+-118.30367 , 34.093376 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30367 , 34.093376 , 0
+-118.30424 , 34.094048 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30424 , 34.094048 , 0
+-118.34065 , 34.093555 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34065 , 34.093555 , 0
+-118.30424 , 34.094048 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98817 , 34.084854 , 0
+-117.9873 , 34.09412 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9873 , 34.09412 , 0
+-117.98817 , 34.084854 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98817 , 34.084854 , 0
+-117.9883 , 34.083565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9883 , 34.083565 , 0
+-117.98817 , 34.084854 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9873 , 34.09412 , 0
+-117.98328 , 34.103775 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98328 , 34.103775 , 0
+-117.9873 , 34.09412 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21564 , 34.086224 , 0
+-118.21783 , 34.08442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21783 , 34.08442 , 0
+-118.21564 , 34.086224 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21783 , 34.08442 , 0
+-118.21953 , 34.086815 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21953 , 34.086815 , 0
+-118.21783 , 34.08442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21783 , 34.08442 , 0
+-118.23225 , 34.072495 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23225 , 34.072495 , 0
+-118.21783 , 34.08442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21783 , 34.08442 , 0
+-118.21022 , 34.073742 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21022 , 34.073742 , 0
+-118.21783 , 34.08442 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23535 , 34.096966 , 0
+-118.21953 , 34.086815 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21953 , 34.086815 , 0
+-118.23535 , 34.096966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9883 , 34.083565 , 0
+-117.98904 , 34.0731 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98904 , 34.0731 , 0
+-117.9883 , 34.083565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47692 , 34.089966 , 0
+-118.47221 , 34.0774 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47221 , 34.0774 , 0
+-118.47692 , 34.089966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47221 , 34.0774 , 0
+-118.4599 , 34.066265 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4599 , 34.066265 , 0
+-118.47221 , 34.0774 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06512 , 34.12985 , 0
+-118.06414 , 34.10968 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06414 , 34.10968 , 0
+-118.06512 , 34.12985 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06414 , 34.10968 , 0
+-118.06256 , 34.09595 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06256 , 34.09595 , 0
+-118.06414 , 34.10968 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06256 , 34.09595 , 0
+-118.06659 , 34.084843 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06659 , 34.084843 , 0
+-118.06256 , 34.09595 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06659 , 34.084843 , 0
+-118.06793 , 34.075863 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06793 , 34.075863 , 0
+-118.06659 , 34.084843 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06793 , 34.075863 , 0
+-118.04057 , 34.074223 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04057 , 34.074223 , 0
+-118.06793 , 34.075863 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06793 , 34.075863 , 0
+-118.09852 , 34.07467 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09852 , 34.07467 , 0
+-118.06793 , 34.075863 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06793 , 34.075863 , 0
+-118.06785 , 34.07334 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06785 , 34.07334 , 0
+-118.06793 , 34.075863 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25935 , 34.072067 , 0
+-118.25259 , 34.085514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25259 , 34.085514 , 0
+-118.25935 , 34.072067 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25935 , 34.072067 , 0
+-118.25983 , 34.07225 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25983 , 34.07225 , 0
+-118.25935 , 34.072067 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25935 , 34.072067 , 0
+-118.24976 , 34.06838 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24976 , 34.06838 , 0
+-118.25935 , 34.072067 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25259 , 34.085514 , 0
+-118.24872 , 34.100067 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24872 , 34.100067 , 0
+-118.25259 , 34.085514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30367 , 34.093376 , 0
+-118.28807 , 34.08231 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28807 , 34.08231 , 0
+-118.30367 , 34.093376 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28807 , 34.08231 , 0
+-118.27129 , 34.076088 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27129 , 34.076088 , 0
+-118.28807 , 34.08231 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27129 , 34.076088 , 0
+-118.25983 , 34.07225 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25983 , 34.07225 , 0
+-118.27129 , 34.076088 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98657 , 34.06872 , 0
+-117.9903 , 34.068558 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9903 , 34.068558 , 0
+-117.98657 , 34.06872 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9903 , 34.068558 , 0
+-117.98904 , 34.0731 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98904 , 34.0731 , 0
+-117.9903 , 34.068558 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9903 , 34.068558 , 0
+-117.99209 , 34.06848 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99209 , 34.06848 , 0
+-117.9903 , 34.068558 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.9903 , 34.068558 , 0
+-117.99084 , 34.06661 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99084 , 34.06661 , 0
+-117.9903 , 34.068558 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04057 , 34.074223 , 0
+-118.00373 , 34.070045 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00373 , 34.070045 , 0
+-118.04057 , 34.074223 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00373 , 34.070045 , 0
+-117.99209 , 34.06848 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99209 , 34.06848 , 0
+-118.00373 , 34.070045 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14747 , 34.06818 , 0
+-118.12769 , 34.07281 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12769 , 34.07281 , 0
+-118.14747 , 34.06818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14747 , 34.06818 , 0
+-118.14849 , 34.06794 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14849 , 34.06794 , 0
+-118.14747 , 34.06818 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12769 , 34.07281 , 0
+-118.09852 , 34.07467 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09852 , 34.07467 , 0
+-118.12769 , 34.07281 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15975 , 34.06514 , 0
+-118.14849 , 34.06794 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14849 , 34.06794 , 0
+-118.15975 , 34.06514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15975 , 34.06514 , 0
+-118.16099 , 34.06483 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16099 , 34.06483 , 0
+-118.15975 , 34.06514 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16099 , 34.06483 , 0
+-118.16042 , 34.060276 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16042 , 34.060276 , 0
+-118.16099 , 34.06483 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16099 , 34.06483 , 0
+-118.169 , 34.062843 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.169 , 34.062843 , 0
+-118.16099 , 34.06483 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06785 , 34.07334 , 0
+-118.06316 , 34.064762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06316 , 34.064762 , 0
+-118.06785 , 34.07334 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06316 , 34.064762 , 0
+-118.06166 , 34.06202 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06166 , 34.06202 , 0
+-118.06316 , 34.064762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23225 , 34.072495 , 0
+-118.24508 , 34.064247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24508 , 34.064247 , 0
+-118.23225 , 34.072495 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24508 , 34.064247 , 0
+-118.24976 , 34.06838 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24976 , 34.06838 , 0
+-118.24508 , 34.064247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24508 , 34.064247 , 0
+-118.24319 , 34.06258 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24319 , 34.06258 , 0
+-118.24508 , 34.064247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24508 , 34.064247 , 0
+-118.24599 , 34.063656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24599 , 34.063656 , 0
+-118.24508 , 34.064247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06166 , 34.06202 , 0
+-118.06422 , 34.04446 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06422 , 34.04446 , 0
+-118.06166 , 34.06202 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99084 , 34.06661 , 0
+-117.99314 , 34.06119 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99314 , 34.06119 , 0
+-117.99084 , 34.06661 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.99314 , 34.06119 , 0
+-118.00007 , 34.052082 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00007 , 34.052082 , 0
+-117.99314 , 34.06119 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16042 , 34.060276 , 0
+-118.15884 , 34.04753 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15884 , 34.04753 , 0
+-118.16042 , 34.060276 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21188 , 34.055634 , 0
+-118.1912 , 34.05885 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1912 , 34.05885 , 0
+-118.21188 , 34.055634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21188 , 34.055634 , 0
+-118.21163 , 34.059483 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21163 , 34.059483 , 0
+-118.21188 , 34.055634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21188 , 34.055634 , 0
+-118.23305 , 34.056644 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23305 , 34.056644 , 0
+-118.21188 , 34.055634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21188 , 34.055634 , 0
+-118.21233 , 34.04845 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21233 , 34.04845 , 0
+-118.21188 , 34.055634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1912 , 34.05885 , 0
+-118.169 , 34.062843 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.169 , 34.062843 , 0
+-118.1912 , 34.05885 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21022 , 34.073742 , 0
+-118.21163 , 34.059483 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21163 , 34.059483 , 0
+-118.21022 , 34.073742 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24319 , 34.06258 , 0
+-118.23305 , 34.056644 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23305 , 34.056644 , 0
+-118.24319 , 34.06258 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44537 , 34.0511 , 0
+-118.4338 , 34.055046 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4338 , 34.055046 , 0
+-118.44537 , 34.0511 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44537 , 34.0511 , 0
+-118.4599 , 34.066265 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4599 , 34.066265 , 0
+-118.44537 , 34.0511 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44537 , 34.0511 , 0
+-118.44063 , 34.04614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44063 , 34.04614 , 0
+-118.44537 , 34.0511 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44537 , 34.0511 , 0
+-118.45721 , 34.047066 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45721 , 34.047066 , 0
+-118.44537 , 34.0511 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4338 , 34.055046 , 0
+-118.41353 , 34.065685 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41353 , 34.065685 , 0
+-118.4338 , 34.055046 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41353 , 34.065685 , 0
+-118.39246 , 34.077496 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39246 , 34.077496 , 0
+-118.41353 , 34.065685 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39246 , 34.077496 , 0
+-118.38363 , 34.08439 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38363 , 34.08439 , 0
+-118.39246 , 34.077496 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38363 , 34.08439 , 0
+-118.37533 , 34.091034 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37533 , 34.091034 , 0
+-118.38363 , 34.08439 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37533 , 34.091034 , 0
+-118.35914 , 34.09353 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35914 , 34.09353 , 0
+-118.37533 , 34.091034 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35914 , 34.09353 , 0
+-118.34065 , 34.093555 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.34065 , 34.093555 , 0
+-118.35914 , 34.09353 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15884 , 34.04753 , 0
+-118.15738 , 34.035828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15738 , 34.035828 , 0
+-118.15884 , 34.04753 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24599 , 34.063656 , 0
+-118.2569 , 34.052593 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2569 , 34.052593 , 0
+-118.24599 , 34.063656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2569 , 34.052593 , 0
+-118.26717 , 34.039715 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26717 , 34.039715 , 0
+-118.2569 , 34.052593 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26717 , 34.039715 , 0
+-118.26803 , 34.03756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26803 , 34.03756 , 0
+-118.26717 , 34.039715 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26803 , 34.03756 , 0
+-118.28149 , 34.038883 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28149 , 34.038883 , 0
+-118.26803 , 34.03756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26803 , 34.03756 , 0
+-118.26488 , 34.037247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26488 , 34.037247 , 0
+-118.26803 , 34.03756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26803 , 34.03756 , 0
+-118.27474 , 34.020702 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27474 , 34.020702 , 0
+-118.26803 , 34.03756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06422 , 34.04446 , 0
+-118.06564 , 34.03705 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06564 , 34.03705 , 0
+-118.06422 , 34.04446 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06564 , 34.03705 , 0
+-118.07928 , 34.03396 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07928 , 34.03396 , 0
+-118.06564 , 34.03705 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06564 , 34.03705 , 0
+-118.05956 , 34.03889 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05956 , 34.03889 , 0
+-118.06564 , 34.03705 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06564 , 34.03705 , 0
+-118.06646 , 34.028656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06646 , 34.028656 , 0
+-118.06564 , 34.03705 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15738 , 34.035828 , 0
+-118.16594 , 34.036316 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16594 , 34.036316 , 0
+-118.15738 , 34.035828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15738 , 34.035828 , 0
+-118.14622 , 34.035187 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14622 , 34.035187 , 0
+-118.15738 , 34.035828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15738 , 34.035828 , 0
+-118.16071 , 34.02345 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16071 , 34.02345 , 0
+-118.15738 , 34.035828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16594 , 34.036316 , 0
+-118.18064 , 34.033875 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18064 , 34.033875 , 0
+-118.16594 , 34.036316 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13135 , 34.033817 , 0
+-118.14622 , 34.035187 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14622 , 34.035187 , 0
+-118.13135 , 34.033817 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13135 , 34.033817 , 0
+-118.13066 , 34.033756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13066 , 34.033756 , 0
+-118.13135 , 34.033817 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13066 , 34.033756 , 0
+-118.1017 , 34.03574 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1017 , 34.03574 , 0
+-118.13066 , 34.033756 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1017 , 34.03574 , 0
+-118.09606 , 34.035683 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09606 , 34.035683 , 0
+-118.1017 , 34.03574 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09606 , 34.035683 , 0
+-118.08166 , 34.0342 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08166 , 34.0342 , 0
+-118.09606 , 34.035683 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08166 , 34.0342 , 0
+-118.07928 , 34.03396 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07928 , 34.03396 , 0
+-118.08166 , 34.0342 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00007 , 34.052082 , 0
+-118.00691 , 34.04746 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00691 , 34.04746 , 0
+-118.00007 , 34.052082 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00691 , 34.04746 , 0
+-118.01015 , 34.044228 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.01015 , 34.044228 , 0
+-118.00691 , 34.04746 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.01015 , 34.044228 , 0
+-118.02628 , 34.03611 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02628 , 34.03611 , 0
+-118.01015 , 34.044228 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02628 , 34.03611 , 0
+-118.0304 , 34.033318 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0304 , 34.033318 , 0
+-118.02628 , 34.03611 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0304 , 34.033318 , 0
+-118.04197 , 34.038544 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04197 , 34.038544 , 0
+-118.0304 , 34.033318 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0304 , 34.033318 , 0
+-118.0174 , 34.027447 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0174 , 34.027447 , 0
+-118.0304 , 34.033318 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0304 , 34.033318 , 0
+-118.05608 , 34.01101 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05608 , 34.01101 , 0
+-118.0304 , 34.033318 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04197 , 34.038544 , 0
+-118.05351 , 34.039158 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05351 , 34.039158 , 0
+-118.04197 , 34.038544 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05351 , 34.039158 , 0
+-118.05956 , 34.03889 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05956 , 34.03889 , 0
+-118.05351 , 34.039158 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44063 , 34.04614 , 0
+-118.42959 , 34.031982 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42959 , 34.031982 , 0
+-118.44063 , 34.04614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42959 , 34.031982 , 0
+-118.42844 , 34.030575 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42844 , 34.030575 , 0
+-118.42959 , 34.031982 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42844 , 34.030575 , 0
+-118.41084 , 34.032032 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41084 , 34.032032 , 0
+-118.42844 , 34.030575 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42844 , 34.030575 , 0
+-118.43558 , 34.029987 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.43558 , 34.029987 , 0
+-118.42844 , 34.030575 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42844 , 34.030575 , 0
+-118.40961 , 34.007515 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40961 , 34.007515 , 0
+-118.42844 , 34.030575 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41084 , 34.032032 , 0
+-118.39226 , 34.029316 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39226 , 34.029316 , 0
+-118.41084 , 34.032032 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39226 , 34.029316 , 0
+-118.38089 , 34.034897 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38089 , 34.034897 , 0
+-118.39226 , 34.029316 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38089 , 34.034897 , 0
+-118.36272 , 34.035614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36272 , 34.035614 , 0
+-118.38089 , 34.034897 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36272 , 34.035614 , 0
+-118.35523 , 34.03466 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35523 , 34.03466 , 0
+-118.36272 , 34.035614 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35523 , 34.03466 , 0
+-118.33324 , 34.03639 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33324 , 34.03639 , 0
+-118.35523 , 34.03466 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33324 , 34.03639 , 0
+-118.30606 , 34.039856 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30606 , 34.039856 , 0
+-118.33324 , 34.03639 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30606 , 34.039856 , 0
+-118.28149 , 34.038883 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28149 , 34.038883 , 0
+-118.30606 , 34.039856 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19716 , 34.028713 , 0
+-118.18064 , 34.033875 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18064 , 34.033875 , 0
+-118.19716 , 34.028713 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19716 , 34.028713 , 0
+-118.203 , 34.02689 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.203 , 34.02689 , 0
+-118.19716 , 34.028713 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19716 , 34.028713 , 0
+-118.18702 , 34.02729 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18702 , 34.02729 , 0
+-118.19716 , 34.028713 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44189 , 34.02806 , 0
+-118.43558 , 34.029987 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.43558 , 34.029987 , 0
+-118.44189 , 34.02806 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44189 , 34.02806 , 0
+-118.44781 , 34.02626 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44781 , 34.02626 , 0
+-118.44189 , 34.02806 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00794 , 34.027634 , 0
+-118.0174 , 34.027447 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0174 , 34.027447 , 0
+-118.00794 , 34.027634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00794 , 34.027634 , 0
+-118.00065 , 34.02777 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00065 , 34.02777 , 0
+-118.00794 , 34.027634 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21909 , 34.026722 , 0
+-118.21624 , 34.027016 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21624 , 34.027016 , 0
+-118.21909 , 34.026722 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21909 , 34.026722 , 0
+-118.21233 , 34.04845 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21233 , 34.04845 , 0
+-118.21909 , 34.026722 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21909 , 34.026722 , 0
+-118.24014 , 34.024574 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24014 , 34.024574 , 0
+-118.21909 , 34.026722 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21624 , 34.027016 , 0
+-118.203 , 34.02689 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.203 , 34.02689 , 0
+-118.21624 , 34.027016 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44781 , 34.02626 , 0
+-118.45956 , 34.02268 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45956 , 34.02268 , 0
+-118.44781 , 34.02626 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26488 , 34.037247 , 0
+-118.25188 , 34.02909 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25188 , 34.02909 , 0
+-118.26488 , 34.037247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.25188 , 34.02909 , 0
+-118.24014 , 34.024574 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24014 , 34.024574 , 0
+-118.25188 , 34.02909 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16071 , 34.02345 , 0
+-118.17131 , 34.02298 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17131 , 34.02298 , 0
+-118.16071 , 34.02345 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16071 , 34.02345 , 0
+-118.16167 , 34.01989 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16167 , 34.01989 , 0
+-118.16071 , 34.02345 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16071 , 34.02345 , 0
+-118.15353 , 34.023766 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15353 , 34.023766 , 0
+-118.16071 , 34.02345 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17131 , 34.02298 , 0
+-118.17702 , 34.025246 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17702 , 34.025246 , 0
+-118.17131 , 34.02298 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17131 , 34.02298 , 0
+-118.16192 , 34.01925 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16192 , 34.01925 , 0
+-118.17131 , 34.02298 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18702 , 34.02729 , 0
+-118.17702 , 34.025246 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17702 , 34.025246 , 0
+-118.18702 , 34.02729 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-117.98679 , 34.022938 , 0
+-118.00065 , 34.02777 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00065 , 34.02777 , 0
+-117.98679 , 34.022938 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06646 , 34.028656 , 0
+-118.07095 , 34.02035 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07095 , 34.02035 , 0
+-118.06646 , 34.028656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07095 , 34.02035 , 0
+-118.07168 , 34.01672 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07168 , 34.01672 , 0
+-118.07095 , 34.02035 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16167 , 34.01989 , 0
+-118.16192 , 34.01925 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16192 , 34.01925 , 0
+-118.16167 , 34.01989 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16192 , 34.01925 , 0
+-118.15744 , 34.01747 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15744 , 34.01747 , 0
+-118.16192 , 34.01925 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16192 , 34.01925 , 0
+-118.16621 , 34.00831 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16621 , 34.00831 , 0
+-118.16192 , 34.01925 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07168 , 34.01672 , 0
+-118.07889 , 34.002003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07889 , 34.002003 , 0
+-118.07168 , 34.01672 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48197 , 34.01464 , 0
+-118.45956 , 34.02268 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45956 , 34.02268 , 0
+-118.48197 , 34.01464 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48197 , 34.01464 , 0
+-118.48279 , 34.014347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48279 , 34.014347 , 0
+-118.48197 , 34.01464 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48197 , 34.01464 , 0
+-118.47781 , 34.010017 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47781 , 34.010017 , 0
+-118.48197 , 34.01464 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48553 , 34.01458 , 0
+-118.48942 , 34.02461 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48942 , 34.02461 , 0
+-118.48553 , 34.01458 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48553 , 34.01458 , 0
+-118.49815 , 34.01565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.49815 , 34.01565 , 0
+-118.48553 , 34.01458 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48553 , 34.01458 , 0
+-118.48279 , 34.014347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48279 , 34.014347 , 0
+-118.48553 , 34.01458 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.48942 , 34.02461 , 0
+-118.4799 , 34.03497 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4799 , 34.03497 , 0
+-118.48942 , 34.02461 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.4799 , 34.03497 , 0
+-118.45721 , 34.047066 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45721 , 34.047066 , 0
+-118.4799 , 34.03497 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.50648 , 34.02391 , 0
+-118.49815 , 34.01565 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.49815 , 34.01565 , 0
+-118.50648 , 34.02391 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05608 , 34.01101 , 0
+-118.05653 , 34.010624 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05653 , 34.010624 , 0
+-118.05608 , 34.01101 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.05653 , 34.010624 , 0
+-118.06573 , 33.996536 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06573 , 33.996536 , 0
+-118.05653 , 34.010624 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07889 , 34.002003 , 0
+-118.09007 , 34.006733 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09007 , 34.006733 , 0
+-118.07889 , 34.002003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07889 , 34.002003 , 0
+-118.06853 , 33.99762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06853 , 33.99762 , 0
+-118.07889 , 34.002003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07889 , 34.002003 , 0
+-118.08255 , 33.996593 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08255 , 33.996593 , 0
+-118.07889 , 34.002003 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15353 , 34.023766 , 0
+-118.1219 , 34.01812 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1219 , 34.01812 , 0
+-118.15353 , 34.023766 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1219 , 34.01812 , 0
+-118.09007 , 34.006733 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09007 , 34.006733 , 0
+-118.1219 , 34.01812 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06599 , 33.99592 , 0
+-118.06573 , 33.996536 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06573 , 33.996536 , 0
+-118.06599 , 33.99592 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06599 , 33.99592 , 0
+-118.06853 , 33.99762 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06853 , 33.99762 , 0
+-118.06599 , 33.99592 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06599 , 33.99592 , 0
+-118.04765 , 33.98366 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04765 , 33.98366 , 0
+-118.06599 , 33.99592 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06599 , 33.99592 , 0
+-118.07158 , 33.982174 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07158 , 33.982174 , 0
+-118.06599 , 33.99592 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40961 , 34.007515 , 0
+-118.39978 , 33.99503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39978 , 33.99503 , 0
+-118.40961 , 34.007515 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39978 , 33.99503 , 0
+-118.39192 , 33.985043 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39192 , 33.985043 , 0
+-118.39978 , 33.99503 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.47781 , 34.010017 , 0
+-118.45251 , 33.99786 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45251 , 33.99786 , 0
+-118.47781 , 34.010017 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.45251 , 33.99786 , 0
+-118.44675 , 33.993374 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44675 , 33.993374 , 0
+-118.45251 , 33.99786 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44675 , 33.993374 , 0
+-118.44256 , 33.9901 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44256 , 33.9901 , 0
+-118.44675 , 33.993374 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39192 , 33.985043 , 0
+-118.38705 , 33.98132 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38705 , 33.98132 , 0
+-118.39192 , 33.985043 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.38705 , 33.98132 , 0
+-118.37744 , 33.97396 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37744 , 33.97396 , 0
+-118.38705 , 33.98132 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00058 , 33.967228 , 0
+-118.00214 , 33.96643 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00214 , 33.96643 , 0
+-118.00058 , 33.967228 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00214 , 33.96643 , 0
+-118.00256 , 33.965813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00256 , 33.965813 , 0
+-118.00214 , 33.96643 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00256 , 33.965813 , 0
+-118.00933 , 33.955853 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00933 , 33.955853 , 0
+-118.00256 , 33.965813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.44256 , 33.9901 , 0
+-118.42809 , 33.97237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42809 , 33.97237 , 0
+-118.44256 , 33.9901 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42809 , 33.97237 , 0
+-118.42155 , 33.96572 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42155 , 33.96572 , 0
+-118.42809 , 33.97237 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42155 , 33.96572 , 0
+-118.40108 , 33.96527 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40108 , 33.96527 , 0
+-118.42155 , 33.96572 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.42155 , 33.96572 , 0
+-118.41402 , 33.958065 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41402 , 33.958065 , 0
+-118.42155 , 33.96572 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.37744 , 33.97396 , 0
+-118.36783 , 33.967564 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36783 , 33.967564 , 0
+-118.37744 , 33.97396 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36783 , 33.967564 , 0
+-118.3671 , 33.965656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3671 , 33.965656 , 0
+-118.36783 , 33.967564 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3671 , 33.965656 , 0
+-118.39694 , 33.96518 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39694 , 33.96518 , 0
+-118.3671 , 33.965656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3671 , 33.965656 , 0
+-118.35426 , 33.96586 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35426 , 33.96586 , 0
+-118.3671 , 33.965656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3671 , 33.965656 , 0
+-118.36323 , 33.955524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36323 , 33.955524 , 0
+-118.3671 , 33.965656 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.40108 , 33.96527 , 0
+-118.39694 , 33.96518 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39694 , 33.96518 , 0
+-118.40108 , 33.96527 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27474 , 34.020702 , 0
+-118.27612 , 33.99107 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27612 , 33.99107 , 0
+-118.27474 , 34.020702 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27612 , 33.99107 , 0
+-118.27564 , 33.970894 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27564 , 33.970894 , 0
+-118.27612 , 33.99107 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27564 , 33.970894 , 0
+-118.27477 , 33.96243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27477 , 33.96243 , 0
+-118.27564 , 33.970894 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27477 , 33.96243 , 0
+-118.2748 , 33.961876 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2748 , 33.961876 , 0
+-118.27477 , 33.96243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2748 , 33.961876 , 0
+-118.28883 , 33.962524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28883 , 33.962524 , 0
+-118.2748 , 33.961876 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2748 , 33.961876 , 0
+-118.26012 , 33.9612 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26012 , 33.9612 , 0
+-118.2748 , 33.961876 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2748 , 33.961876 , 0
+-118.27534 , 33.947956 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27534 , 33.947956 , 0
+-118.2748 , 33.961876 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35426 , 33.96586 , 0
+-118.32026 , 33.96308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32026 , 33.96308 , 0
+-118.35426 , 33.96586 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32026 , 33.96308 , 0
+-118.28883 , 33.962524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28883 , 33.962524 , 0
+-118.32026 , 33.96308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08255 , 33.996593 , 0
+-118.10044 , 33.972298 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10044 , 33.972298 , 0
+-118.08255 , 33.996593 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10044 , 33.972298 , 0
+-118.10884 , 33.959507 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10884 , 33.959507 , 0
+-118.10044 , 33.972298 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10884 , 33.959507 , 0
+-118.11079 , 33.961037 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11079 , 33.961037 , 0
+-118.10884 , 33.959507 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10884 , 33.959507 , 0
+-118.09861 , 33.95147 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09861 , 33.95147 , 0
+-118.10884 , 33.959507 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10884 , 33.959507 , 0
+-118.113 , 33.953182 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.113 , 33.953182 , 0
+-118.10884 , 33.959507 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15744 , 34.01747 , 0
+-118.13551 , 33.997597 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13551 , 33.997597 , 0
+-118.15744 , 34.01747 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13551 , 33.997597 , 0
+-118.11892 , 33.972767 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11892 , 33.972767 , 0
+-118.13551 , 33.997597 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11892 , 33.972767 , 0
+-118.11079 , 33.961037 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11079 , 33.961037 , 0
+-118.11892 , 33.972767 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00933 , 33.955853 , 0
+-118.02219 , 33.96431 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02219 , 33.96431 , 0
+-118.00933 , 33.955853 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00933 , 33.955853 , 0
+-118.00838 , 33.955227 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.00838 , 33.955227 , 0
+-118.00933 , 33.955853 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.04765 , 33.98366 , 0
+-118.02219 , 33.96431 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.02219 , 33.96431 , 0
+-118.04765 , 33.98366 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16621 , 34.00831 , 0
+-118.16721 , 33.997498 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16721 , 33.997498 , 0
+-118.16621 , 34.00831 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16721 , 33.997498 , 0
+-118.15871 , 33.983715 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15871 , 33.983715 , 0
+-118.16721 , 33.997498 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15871 , 33.983715 , 0
+-118.16003 , 33.97405 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16003 , 33.97405 , 0
+-118.15871 , 33.983715 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16003 , 33.97405 , 0
+-118.16231 , 33.960915 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16231 , 33.960915 , 0
+-118.16003 , 33.97405 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16231 , 33.960915 , 0
+-118.16244 , 33.950966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16244 , 33.950966 , 0
+-118.16231 , 33.960915 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16244 , 33.950966 , 0
+-118.18104 , 33.953106 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18104 , 33.953106 , 0
+-118.16244 , 33.950966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16244 , 33.950966 , 0
+-118.15974 , 33.950653 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15974 , 33.950653 , 0
+-118.16244 , 33.950966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16244 , 33.950966 , 0
+-118.16253 , 33.94393 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16253 , 33.94393 , 0
+-118.16244 , 33.950966 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26012 , 33.9612 , 0
+-118.23804 , 33.96016 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23804 , 33.96016 , 0
+-118.26012 , 33.9612 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23804 , 33.96016 , 0
+-118.21152 , 33.958076 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21152 , 33.958076 , 0
+-118.23804 , 33.96016 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21152 , 33.958076 , 0
+-118.18104 , 33.953106 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.18104 , 33.953106 , 0
+-118.21152 , 33.958076 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36323 , 33.955524 , 0
+-118.36391 , 33.950455 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36391 , 33.950455 , 0
+-118.36323 , 33.955524 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36391 , 33.950455 , 0
+-118.36581 , 33.936413 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36581 , 33.936413 , 0
+-118.36391 , 33.950455 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09258 , 33.944347 , 0
+-118.08579 , 33.95522 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08579 , 33.95522 , 0
+-118.09258 , 33.944347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09258 , 33.944347 , 0
+-118.09861 , 33.95147 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09861 , 33.95147 , 0
+-118.09258 , 33.944347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09258 , 33.944347 , 0
+-118.09336 , 33.943108 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09336 , 33.943108 , 0
+-118.09258 , 33.944347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09258 , 33.944347 , 0
+-118.08635 , 33.93698 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08635 , 33.93698 , 0
+-118.09258 , 33.944347 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08579 , 33.95522 , 0
+-118.07751 , 33.97033 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07751 , 33.97033 , 0
+-118.08579 , 33.95522 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07751 , 33.97033 , 0
+-118.07158 , 33.982174 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07158 , 33.982174 , 0
+-118.07751 , 33.97033 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.113 , 33.953182 , 0
+-118.12303 , 33.9375 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12303 , 33.9375 , 0
+-118.113 , 33.953182 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12303 , 33.9375 , 0
+-118.13548 , 33.942307 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13548 , 33.942307 , 0
+-118.12303 , 33.9375 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12303 , 33.9375 , 0
+-118.11983 , 33.936268 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11983 , 33.936268 , 0
+-118.12303 , 33.9375 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.12303 , 33.9375 , 0
+-118.13179 , 33.923813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13179 , 33.923813 , 0
+-118.12303 , 33.9375 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.15974 , 33.950653 , 0
+-118.13548 , 33.942307 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13548 , 33.942307 , 0
+-118.15974 , 33.950653 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36581 , 33.936413 , 0
+-118.36577 , 33.93393 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36577 , 33.93393 , 0
+-118.36581 , 33.936413 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36577 , 33.93393 , 0
+-118.36557 , 33.920605 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36557 , 33.920605 , 0
+-118.36577 , 33.93393 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27534 , 33.947956 , 0
+-118.27745 , 33.938038 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27745 , 33.938038 , 0
+-118.27534 , 33.947956 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27745 , 33.938038 , 0
+-118.28129 , 33.927303 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28129 , 33.927303 , 0
+-118.27745 , 33.938038 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28129 , 33.927303 , 0
+-118.28421 , 33.92051 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28421 , 33.92051 , 0
+-118.28129 , 33.927303 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09798 , 33.925556 , 0
+-118.098 , 33.926243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.098 , 33.926243 , 0
+-118.09798 , 33.925556 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09798 , 33.925556 , 0
+-118.11983 , 33.936268 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.11983 , 33.936268 , 0
+-118.09798 , 33.925556 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09798 , 33.925556 , 0
+-118.09811 , 33.905827 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09811 , 33.905827 , 0
+-118.09798 , 33.925556 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.098 , 33.926243 , 0
+-118.09336 , 33.943108 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09336 , 33.943108 , 0
+-118.098 , 33.926243 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36557 , 33.920605 , 0
+-118.36554 , 33.91828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36554 , 33.91828 , 0
+-118.36557 , 33.920605 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28421 , 33.92051 , 0
+-118.28487 , 33.918976 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28487 , 33.918976 , 0
+-118.28421 , 33.92051 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08635 , 33.93698 , 0
+-118.08396 , 33.93416 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08396 , 33.93416 , 0
+-118.08635 , 33.93698 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08396 , 33.93416 , 0
+-118.07307 , 33.91886 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07307 , 33.91886 , 0
+-118.08396 , 33.93416 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07307 , 33.91886 , 0
+-118.07042 , 33.91513 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07042 , 33.91513 , 0
+-118.07307 , 33.91886 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36554 , 33.91828 , 0
+-118.36547 , 33.913986 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36547 , 33.913986 , 0
+-118.36554 , 33.91828 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.07042 , 33.91513 , 0
+-118.06775 , 33.911377 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06775 , 33.911377 , 0
+-118.07042 , 33.91513 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36547 , 33.913986 , 0
+-118.36553 , 33.913025 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36553 , 33.913025 , 0
+-118.36547 , 33.913986 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36553 , 33.913025 , 0
+-118.36464 , 33.90591 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36464 , 33.90591 , 0
+-118.36553 , 33.913025 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28481 , 33.91235 , 0
+-118.28485 , 33.91749 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28485 , 33.91749 , 0
+-118.28481 , 33.91235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28481 , 33.91235 , 0
+-118.28445 , 33.874126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28445 , 33.874126 , 0
+-118.28481 , 33.91235 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28485 , 33.91749 , 0
+-118.28487 , 33.918976 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28487 , 33.918976 , 0
+-118.28485 , 33.91749 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06775 , 33.911377 , 0
+-118.06087 , 33.90791 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06087 , 33.90791 , 0
+-118.06775 , 33.911377 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06087 , 33.90791 , 0
+-118.0543 , 33.904587 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.0543 , 33.904587 , 0
+-118.06087 , 33.90791 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36464 , 33.90591 , 0
+-118.36385 , 33.899525 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36385 , 33.899525 , 0
+-118.36464 , 33.90591 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41402 , 33.958065 , 0
+-118.41032 , 33.954952 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41032 , 33.954952 , 0
+-118.41402 , 33.958065 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.41032 , 33.954952 , 0
+-118.39755 , 33.95254 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39755 , 33.95254 , 0
+-118.41032 , 33.954952 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39755 , 33.95254 , 0
+-118.3951 , 33.945957 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3951 , 33.945957 , 0
+-118.39755 , 33.95254 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3951 , 33.945957 , 0
+-118.39551 , 33.920933 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39551 , 33.920933 , 0
+-118.3951 , 33.945957 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39551 , 33.920933 , 0
+-118.39479 , 33.902405 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39479 , 33.902405 , 0
+-118.39551 , 33.920933 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39479 , 33.902405 , 0
+-118.39436 , 33.89114 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39436 , 33.89114 , 0
+-118.39479 , 33.902405 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36385 , 33.899525 , 0
+-118.36054 , 33.896606 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36054 , 33.896606 , 0
+-118.36385 , 33.899525 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.36054 , 33.896606 , 0
+-118.35102 , 33.88817 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35102 , 33.88817 , 0
+-118.36054 , 33.896606 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.06846 , 33.88165 , 0
+-118.08244 , 33.882805 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08244 , 33.882805 , 0
+-118.06846 , 33.88165 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10045 , 33.879047 , 0
+-118.10136 , 33.888313 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10136 , 33.888313 , 0
+-118.10045 , 33.879047 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10045 , 33.879047 , 0
+-118.1327 , 33.879517 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1327 , 33.879517 , 0
+-118.10045 , 33.879047 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10045 , 33.879047 , 0
+-118.09745 , 33.879 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09745 , 33.879 , 0
+-118.10045 , 33.879047 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10045 , 33.879047 , 0
+-118.09964 , 33.87069 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09964 , 33.87069 , 0
+-118.10045 , 33.879047 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.10136 , 33.888313 , 0
+-118.09811 , 33.905827 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09811 , 33.905827 , 0
+-118.10136 , 33.888313 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1327 , 33.879517 , 0
+-118.13958 , 33.87902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13958 , 33.87902 , 0
+-118.1327 , 33.879517 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13958 , 33.87902 , 0
+-118.13966 , 33.881866 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13966 , 33.881866 , 0
+-118.13958 , 33.87902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13958 , 33.87902 , 0
+-118.1618 , 33.877422 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1618 , 33.877422 , 0
+-118.13958 , 33.87902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13179 , 33.923813 , 0
+-118.13692 , 33.913136 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13692 , 33.913136 , 0
+-118.13179 , 33.923813 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13692 , 33.913136 , 0
+-118.14073 , 33.904324 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14073 , 33.904324 , 0
+-118.13692 , 33.913136 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.14073 , 33.904324 , 0
+-118.13966 , 33.881866 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.13966 , 33.881866 , 0
+-118.14073 , 33.904324 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.08244 , 33.882805 , 0
+-118.09745 , 33.879 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.09745 , 33.879 , 0
+-118.08244 , 33.882805 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.1618 , 33.877422 , 0
+-118.19254 , 33.876198 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19254 , 33.876198 , 0
+-118.1618 , 33.877422 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19254 , 33.876198 , 0
+-118.19007 , 33.882908 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19007 , 33.882908 , 0
+-118.19254 , 33.876198 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19254 , 33.876198 , 0
+-118.20838 , 33.875572 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20838 , 33.875572 , 0
+-118.19254 , 33.876198 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19254 , 33.876198 , 0
+-118.19508 , 33.869247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19508 , 33.869247 , 0
+-118.19254 , 33.876198 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.16253 , 33.94393 , 0
+-118.17066 , 33.92492 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17066 , 33.92492 , 0
+-118.16253 , 33.94393 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17066 , 33.92492 , 0
+-118.17893 , 33.90223 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17893 , 33.90223 , 0
+-118.17066 , 33.92492 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.17893 , 33.90223 , 0
+-118.19007 , 33.882908 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19007 , 33.882908 , 0
+-118.17893 , 33.90223 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20838 , 33.875572 , 0
+-118.23904 , 33.876453 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23904 , 33.876453 , 0
+-118.20838 , 33.875572 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39436 , 33.89114 , 0
+-118.39288 , 33.874203 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39288 , 33.874203 , 0
+-118.39436 , 33.89114 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.39288 , 33.874203 , 0
+-118.33602 , 33.873623 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33602 , 33.873623 , 0
+-118.39288 , 33.874203 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23904 , 33.876453 , 0
+-118.28445 , 33.874126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28445 , 33.874126 , 0
+-118.23904 , 33.876453 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28445 , 33.874126 , 0
+-118.28651 , 33.874107 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28651 , 33.874107 , 0
+-118.28445 , 33.874126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28445 , 33.874126 , 0
+-118.28774 , 33.85736 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 33.85736 , 0
+-118.28445 , 33.874126 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28651 , 33.874107 , 0
+-118.32587 , 33.873726 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32587 , 33.873726 , 0
+-118.28651 , 33.874107 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32587 , 33.873726 , 0
+-118.33602 , 33.873623 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33602 , 33.873623 , 0
+-118.32587 , 33.873726 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33602 , 33.873623 , 0
+-118.3387 , 33.875416 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3387 , 33.875416 , 0
+-118.33602 , 33.873623 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.33602 , 33.873623 , 0
+-118.3339 , 33.872208 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3339 , 33.872208 , 0
+-118.33602 , 33.873623 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.35102 , 33.88817 , 0
+-118.3387 , 33.875416 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3387 , 33.875416 , 0
+-118.35102 , 33.88817 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3339 , 33.872208 , 0
+-118.32281 , 33.864796 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32281 , 33.864796 , 0
+-118.3339 , 33.872208 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.19508 , 33.869247 , 0
+-118.20094 , 33.865902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20094 , 33.865902 , 0
+-118.19508 , 33.869247 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20094 , 33.865902 , 0
+-118.20213 , 33.864914 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20213 , 33.864914 , 0
+-118.20094 , 33.865902 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20213 , 33.864914 , 0
+-118.20731 , 33.860638 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20731 , 33.860638 , 0
+-118.20213 , 33.864914 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.32281 , 33.864796 , 0
+-118.31454 , 33.863937 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31454 , 33.863937 , 0
+-118.32281 , 33.864796 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31454 , 33.863937 , 0
+-118.30631 , 33.86308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30631 , 33.86308 , 0
+-118.31454 , 33.863937 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.31454 , 33.863937 , 0
+-118.30444 , 33.84993 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30444 , 33.84993 , 0
+-118.31454 , 33.863937 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 33.85736 , 0
+-118.29504 , 33.86134 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29504 , 33.86134 , 0
+-118.28774 , 33.85736 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 33.85736 , 0
+-118.28733 , 33.85057 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28733 , 33.85057 , 0
+-118.28774 , 33.85736 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28774 , 33.85736 , 0
+-118.27765 , 33.852535 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27765 , 33.852535 , 0
+-118.28774 , 33.85736 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30631 , 33.86308 , 0
+-118.29504 , 33.86134 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.29504 , 33.86134 , 0
+-118.30631 , 33.86308 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.20731 , 33.860638 , 0
+-118.21145 , 33.85144 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21145 , 33.85144 , 0
+-118.20731 , 33.860638 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.21145 , 33.85144 , 0
+-118.2129 , 33.848217 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2129 , 33.848217 , 0
+-118.21145 , 33.85144 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28733 , 33.85057 , 0
+-118.28699 , 33.84482 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28699 , 33.84482 , 0
+-118.28733 , 33.85057 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.30444 , 33.84993 , 0
+-118.3045 , 33.849022 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.3045 , 33.849022 , 0
+-118.30444 , 33.84993 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28699 , 33.84482 , 0
+-118.28625 , 33.830654 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.28625 , 33.830654 , 0
+-118.28699 , 33.84482 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26357 , 33.84025 , 0
+-118.27765 , 33.852535 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.27765 , 33.852535 , 0
+-118.26357 , 33.84025 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26357 , 33.84025 , 0
+-118.26117 , 33.838154 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26117 , 33.838154 , 0
+-118.26357 , 33.84025 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26117 , 33.838154 , 0
+-118.26045 , 33.837532 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26045 , 33.837532 , 0
+-118.26117 , 33.838154 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2508 , 33.83455 , 0
+-118.26045 , 33.837532 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.26045 , 33.837532 , 0
+-118.2508 , 33.83455 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.2508 , 33.83455 , 0
+-118.24889 , 33.833958 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24889 , 33.833958 , 0
+-118.2508 , 33.83455 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23273 , 33.834076 , 0
+-118.23792 , 33.83335 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23792 , 33.83335 , 0
+-118.23273 , 33.834076 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.23792 , 33.83335 , 0
+-118.24479 , 33.834217 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24479 , 33.834217 , 0
+-118.23792 , 33.83335 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24479 , 33.834217 , 0
+-118.24889 , 33.833958 , 0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<coordinates>
+-118.24889 , 33.833958 , 0
+-118.24479 , 33.834217 , 0
+</coordinates>
+</LineString>
+</Placemark>
+</Document> </kml>
