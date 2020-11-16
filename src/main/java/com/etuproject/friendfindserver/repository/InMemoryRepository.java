@@ -15,7 +15,10 @@ import java.util.Map;
 public class InMemoryRepository {
 
     private static InMemoryRepository instance;
+
+    //User location id is stored here.
     private static Map<String, User> userMap;
+
     private static Map<Integer, Vertex> vertexMap;
     private static Map<String, Double> distanceMap;
     private static Map<Integer, Edge> edgeMap;
@@ -34,7 +37,11 @@ public class InMemoryRepository {
     public static InMemoryRepository getInstance() {
         if (instance == null) {
             instance = new InMemoryRepository();
+
+            //After this operation, InMemoryRepository object's variables are initiated.
+            //Except beliefMap
             FileOperation.getInstance().initiate();
+
         }
         return instance;
     }
@@ -76,6 +83,8 @@ public class InMemoryRepository {
                 }
             }
 
+            //Update the user with new location id
+            userMap.get(userName).setLocationID(newLocationID);
             return newLocationID;
         }
         return -1;

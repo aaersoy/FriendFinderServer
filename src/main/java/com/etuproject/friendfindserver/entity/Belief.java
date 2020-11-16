@@ -6,14 +6,24 @@ import com.etuproject.friendfindserver.simulation.TickSimulator;
 import java.util.*;
 
 public class Belief {
-    private Map<Long, Map<User, Set<Integer>>> allBeliefs;
-    private Map<User, Long> mostRecentQueryTimes;
+    private  Map<Long, Map<User, Set<Integer>>> allBeliefs; //
+    private  Map<User, Long> mostRecentQueryTimes;//
+
+
 
     public Belief(User self) {
 
         List<User> friends = new ArrayList<>();
         InMemoryRepository.getInstance().getFriends(self, friends);
         long time = TickSimulator.getInstance(self).getTime();
+
+        if (allBeliefs==null){
+            allBeliefs=new HashMap<Long, Map<User, Set<Integer>>>();
+        }
+        if (mostRecentQueryTimes==null){
+            mostRecentQueryTimes=new HashMap<User, Long>();
+        }
+
         for (User friend: friends) {
             set(time, friend, InMemoryRepository.graph.vertexSet());
 
@@ -25,6 +35,7 @@ public class Belief {
     }
 
     public void set(long time, User friend, Set<Integer> newBelief) {
+
 
         if (!allBeliefs.containsKey(time)) {
             allBeliefs.put(time, new HashMap<>());

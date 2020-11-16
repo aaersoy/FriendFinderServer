@@ -12,7 +12,10 @@ class FileOperation {
 
     private static FileOperation instance;
     private static int nextID;
-    private static int extraPopulationSize = 0;
+
+    //For random extra users in simulation.
+    private static int extraPopulationSize = 40;
+
     private static String userFile = System.getProperty("user.dir") + "\\data\\" + "Users";
     private static String nodeFile = System.getProperty("user.dir") + "\\data\\" + "LA.cnode";
     private static String edgeFile = System.getProperty("user.dir") + "\\data\\" + "LA.cedge";
@@ -58,6 +61,7 @@ class FileOperation {
         for (int i = 100; i < extraPopulationSize + 100; ++i ) {
             User u = new User(nextID, "U"+nextID, password, 100, 100);
             nextID++;
+
             int randomLocationID = (int)(Math.random() * InMemoryRepository.getInstance().getVertexCount());
             u.setLocationID(randomLocationID);
             InMemoryRepository.getInstance().addUser(u);

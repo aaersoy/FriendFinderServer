@@ -28,7 +28,15 @@ public class NFQueryServiceImpl implements NFQueryService {
         }
         List<UserQueryMasked> result =  lbs.query(requestFindFriends.getUserName());
         ResponseFindFriends response = new ResponseFindFriends();
+
+
         response.setFriends(result);
+        List<UserQueryMasked> user=response.getFriends();
+        for (int i = 0; i < user.size(); i++) {
+            System.out.println(user.get(i).getUserName());
+        }
+
+        System.out.println(result);
         return response;
     }
 

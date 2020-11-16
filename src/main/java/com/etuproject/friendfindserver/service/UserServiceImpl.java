@@ -20,12 +20,17 @@ import java.util.List;
 public class UserServiceImpl implements UserService {
 
     public ResponseLocationUpdate updateLocation(RequestLocationUpdate requestLocationUpdate) {
+        System.out.println(requestLocationUpdate.getUserName()+" " +requestLocationUpdate.getLatitude()+" " +
+                requestLocationUpdate.getLongitude() );
+
+        //Calculated Location id is returned but not changed in InMemoryRepository. PROBLEM MAY OCCUR IN HERE.
         int newLocationID = InMemoryRepository.getInstance()
                 .updateLocation(requestLocationUpdate.getUserName(),
                         requestLocationUpdate.getLatitude(),
                         requestLocationUpdate.getLongitude());
 
         return new ResponseLocationUpdate(newLocationID);
+
     }
 
     public ResponseLogin login(RequestLogin requestLogin) throws AuthenticationFailedException {
@@ -47,6 +52,7 @@ public class UserServiceImpl implements UserService {
             res.setEdges(edges);
             res.setVertices(vertices);
             return res;
+
         } else {
             throw new AuthenticationFailedException();
         }

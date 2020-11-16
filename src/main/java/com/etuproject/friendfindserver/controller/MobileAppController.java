@@ -130,6 +130,7 @@ public class MobileAppController extends AbstractAPIController {
             }
 
             ResponseLocationUpdate responseLocationUpdate = userService.updateLocation(requestLocationUpdate);
+
             if (responseLocationUpdate != null) {
                 return new ResponseEntity<>(responseLocationUpdate, HttpStatus.ACCEPTED);
             } else {
@@ -148,9 +149,11 @@ public class MobileAppController extends AbstractAPIController {
      */
     @RequestMapping(value = "/find_friends", method = RequestMethod.POST, headers = "Accept=application/json", produces = "application/zip")
     public ResponseEntity<?> findFriends(@Valid @RequestBody RequestFindFriends requestFindFriends, Errors errors) {
+
         try {
             if (errors.hasErrors()) {
-                String errorMessage = errors.getAllErrors().stream().map(DefaultMessageSourceResolvable::getDefaultMessage).collect(Collectors.joining(", "));
+                String errorMessage = errors.getAllErrors().stream().map(DefaultMessageSourceResolvable::getDefaultMessage)
+                        .collect(Collectors.joining(", "));
                 return new ResponseEntity<>(produceJSONResponse(errorMessage), HttpStatus.BAD_REQUEST);
             }
 

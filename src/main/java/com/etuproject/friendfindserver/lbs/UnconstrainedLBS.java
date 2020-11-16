@@ -23,9 +23,11 @@ public class UnconstrainedLBS implements LBS {
             GraphPath<Integer, DefaultWeightedEdge> path =
                     DijkstraShortestPath.findPathBetween(InMemoryRepository.graph, self.getLocationID(), friend.getLocationID());
             if (self.getPreference().getInterestRadius() > path.getWeight()) {
+                System.out.println(friend.getUserName());
                 resultList.add(new UserQueryMasked(friend.getUserName()));
             }
         }
+
         return resultList;
     }
 }
